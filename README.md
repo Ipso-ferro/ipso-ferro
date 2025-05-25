@@ -1,48 +1,112 @@
-<h2 align="left">Hey 👋 I'm César — Fullstack Developer & DevOps Enthusiast</h2>
+<h2 align="left">Hi 👋 I'm César — Fullstack Developer & DevOps Enthusiast</h2>
 
-<p align="left">💻 Passionate about crafting clean, scalable systems and automating workflows. Currently building fullstack apps with React & Node.js, and learning AWS & Docker to master DevOps pipelines.</p>
+<p align="left">
+🔧 Passionate about building scalable and maintainable applications.  
+💻 Currently developing fullstack solutions using React.js, Node.js, Express.js, and Strapi.  
+☁️ Learning AWS & Docker to strengthen my DevOps skills.  
+🧩 Applying Domain-Driven Design (DDD) principles to write clean, modular code and avoid spaghetti architecture.  
+</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ipso-ferro/ipso-ferro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ipso-ferro/ipso-ferro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ipso-ferro/ipso-ferro/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipso-ferro&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ipso-ferro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="150" alt="Coding GIF" />
 </div>
 
-###
+---
+
+### 🧠 Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+</div>
+
+---
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ipso-ferro&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&locale=en&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ipso-ferro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false" height="150" alt="Top languages" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎓 Hostel Management System  
+Fullstack system for student accommodation management using React.js, Node.js, Strapi, and AWS S3.  
+Features real-time room booking, student profiles, and maintenance request flows.
+
+[![Hostel Management Banner](https://i.imgur.com/IQ4u6hO.png)](https://github.com/ipso-ferro/hostel-management-system)
+
+---
+
+#### 💼 MaxConnecting Backend *(In Development)*  
+Backend services for a business platform that supports online payments and customer support workflows.  
+Technologies: Node.js, MySQL, Docker, JWT, AWS
+
+[![MaxConnecting Banner](https://i.imgur.com/E2YMQ6G.png)](https://github.com/ipso-ferro/maxconnecting-backend)
+
+---
+
+#### 🏃 StepIn App — Fullstack Apprenticeship  
+Contributed backend logic and MySQL integration for a fitness-focused social app.  
+Used Node.js, TypeScript, Firebase, and GitHub for version control.
+
+[![StepIn App](https://i.imgur.com/nqXp1Sg.png)](https://github.com/ipso-ferro/stepin-app)
+
+---
+
+#### 📦 Python Transportation Logistics System  
+CLI-based application for managing shipments, vehicles, and customers.  
+Built using object-oriented programming and input validation in Python.
+
+---
+
+#### 🛍 E-commerce Platform (MERN Stack)  
+Created a responsive e-commerce platform with user authentication, shopping cart, and product catalog.  
+Tech: MongoDB, Express.js, React.js, Node.js
+
+---
+
+#### 🔁 DevOps CI/CD Pipeline  
+Built a CI/CD pipeline using GitHub Actions, Docker, and AWS.  
+Automated deployment process including testing, building, and deploying web apps.
+
+---
+
+### 📬 Let’s Connect
+
+<div align="left">
+  <a href="mailto:cesar.ocampo.9457@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=914D3F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/cesarocampoguzman/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4C6B8B&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://github.com/ipso-ferro">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+</div>
+
