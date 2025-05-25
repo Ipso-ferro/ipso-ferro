@@ -59,7 +59,6 @@
 Fullstack system for student accommodation management using React.js, Node.js, Strapi, and AWS S3.  
 Features real-time room booking, student profiles, and maintenance request flows.
 
-[![Hostel Management Banner](https://i.imgur.com/IQ4u6hO.png)](https://github.com/ipso-ferro/hostel-management-system)
 
 ---
 
