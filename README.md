@@ -67,7 +67,6 @@ Features real-time room booking, student profiles, and maintenance request flows
 Backend services for a business platform that supports online payments and customer support workflows.  
 Technologies: Node.js, MySQL, Docker, JWT, AWS
 
-[![MaxConnecting Banner](https://i.imgur.com/E2YMQ6G.png)](https://github.com/ipso-ferro/maxconnecting-backend)
 
 ---
 
@@ -75,7 +74,7 @@ Technologies: Node.js, MySQL, Docker, JWT, AWS
 Contributed backend logic and MySQL integration for a fitness-focused social app.  
 Used Node.js, TypeScript, Firebase, and GitHub for version control.
 
-[![StepIn App](https://i.imgur.com/nqXp1Sg.png)](https://github.com/ipso-ferro/stepin-app)
+
 
 ---
 
