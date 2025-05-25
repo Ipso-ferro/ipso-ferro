@@ -97,14 +97,11 @@ Automated deployment process including testing, building, and deploying web apps
 
 ### 📬 Let’s Connect
 
-<div align="left">
+<div align="center">
   <a href="mailto:cesar.ocampo.9457@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=914D3F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/cesarocampoguzman/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4C6B8B&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <a href="https://github.com/ipso-ferro">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
 </div>
 
